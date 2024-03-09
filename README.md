@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **React-tailwind-node-python and data analyticsyc**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
