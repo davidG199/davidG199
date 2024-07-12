@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm David Gómez</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">I am a web developer passionate about the front end but with knowledge in the backend, I like to create interfaces with react and tailwind and also build APIs with python using fastapi. I am always motivated to learn new technologies and reinforce my knowledge by practicing on personal projects. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidg199&label=Profile%20views&color=0e75b6&style=flat" alt="davidg199" /> </p>
 
-- 🌱 I’m currently learning **React-tailwind-node-python and data analyticsyc**
+- 🌱 I’m currently learning **React-tailwind-node-python and Fastapi**
 
 <p align="left">
 </p>
