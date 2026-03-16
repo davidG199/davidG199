@@ -15,4 +15,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidg199&" alt="davidg199" /></p>
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/davidg199/contributions?format=svg&private=false) 
